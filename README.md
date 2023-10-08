@@ -42,7 +42,7 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thevargheseshibu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thevargheseshibu)
+![GitHub Trophies]([https://github-profile-trophy.vercel.app/?username=thevargheseshibu](https://drive.google.com/file/d/19v87LIFcW1PRkSiCGfcHMXgmoSP-MFqx/view))
 
 
 
