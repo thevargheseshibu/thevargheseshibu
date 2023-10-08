@@ -7,7 +7,7 @@ Lead Solution Engineer with 4+ years of experience. I have a passion for solving
 🔧 I specialize in designing and implementing high-impact solutions for businesses.
 🚀 I thrive in dynamic and fast-paced environments, driving successful projects from concept to execution.
 💬 Let's connect to discuss technology, architecture, and all things solutions engineering.<br>
-   <br>![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![ReactJS](https://img.shields.io/badge/React-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![NextJS](https://img.shields.io/badge/Next-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![Node](https://img.shields.io/badge/Node-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-Expert-yellow.svg)<br>
+   <br>![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![ReactJS](https://img.shields.io/badge/ReactJS-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![NextJS](https://img.shields.io/badge/NextJS-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![Node](https://img.shields.io/badge/Node-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-Expert-yellow.svg)<br>
 
 
 📫 How to reach me: [Email](mailto:thevargheseshibu@gmail.com)  [LinkedIn](https://www.linkedin.com/in/thevargheseshibu/) | [Instagram](https://www.instagram.com/thevargiz/) | [Whatsapp](https://wa.me/9496229341)
@@ -27,7 +27,7 @@ In my free time, I'm an avid enthusiast of:
 
 ## Skills
 
-- 🐙 Github Languages Summary:<br>
+- 🐙 Github Language Summary:<br>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevargheseshibu&layout=compact)
 
 - 💻 Programming Languages: JavaScript, Typescript, C#, Python, Kotlin, Solidity, Ruby, Php, VB, C, C++, Java, HTML and CSS
