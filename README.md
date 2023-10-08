@@ -13,7 +13,7 @@ Lead Solution Engineer with 4+ years of experience. I have a passion for solving
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)<br>
 
 
-📫 How to reach me: [Email](mailto:thevargheseshibu@gmail.com)  [LinkedIn](https://www.linkedin.com/in/thevargheseshibu/) | [Instagram](https://www.instagram.com/thevargiz/) | [Whatsapp](https://wa.me/9496229341)
+📫 How to reach me: [Email](mailto:thevargheseshibu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thevargheseshibu/) | [Instagram](https://www.instagram.com/thevargiz/) | [Whatsapp](https://wa.me/9496229341)
 
 
 ## Skills
