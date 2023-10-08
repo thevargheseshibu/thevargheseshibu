@@ -9,20 +9,11 @@ Lead Solution Engineer with 4+ years of experience. I have a passion for solving
 💬 Let's connect to discuss technology, architecture, and all things solutions engineering.<br>
    <br>![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![ReactJS](https://img.shields.io/badge/ReactJS-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![NextJS](https://img.shields.io/badge/NextJS-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![Node](https://img.shields.io/badge/Node-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-Expert-yellow.svg)<br>
 
+   <br>📦 Github Contributions:<br>
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)<br>
+
 
 📫 How to reach me: [Email](mailto:thevargheseshibu@gmail.com)  [LinkedIn](https://www.linkedin.com/in/thevargheseshibu/) | [Instagram](https://www.instagram.com/thevargiz/) | [Whatsapp](https://wa.me/9496229341)
-
-## Hobbies and Interests
-
-In my free time, I'm an avid enthusiast of:
-- 💻 Technology: Exploring new technology stacks
-- 🚴‍♂️ Cycling: Exploring new trails and pushing boundaries on two wheels.
-- ⛰️ Hiking: Conquering peaks and embracing the serenity of nature.
-- 🏋️‍♂️ Gym: I'm passionate about fitness and hitting the gym to stay in shape.
-- 🎲 GM (Gaming Master): Strategizing and conquering virtual worlds with a competitive edge.
-
-📦 Github Contributions:<br>
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)
 
 
 ## Skills
@@ -64,6 +55,14 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 [Team Champ Award: 2023](https://drive.google.com/file/d/19v87LIFcW1PRkSiCGfcHMXgmoSP-MFqx/view?usp=sharing) |
 
 
+## Hobbies and Interests
+
+In my free time, I'm an avid enthusiast of:
+- 💻 Technology: Exploring new technology stacks
+- 🚴‍♂️ Cycling: Exploring new trails and pushing boundaries on two wheels.
+- ⛰️ Hiking: Conquering peaks and embracing the serenity of nature.
+- 🏋️‍♂️ Gym: I'm passionate about fitness and hitting the gym to stay in shape.
+- 🎲 GM (Gaming Master): Strategizing and conquering virtual worlds with a competitive edge.
 
 
 Feel free to explore my repositories to see more of my work! 😄
