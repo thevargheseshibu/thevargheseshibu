@@ -7,7 +7,7 @@ Lead Solution Engineer with 4+ years of experience. I have a passion for solving
 🔧 I specialize in designing and implementing high-impact solutions for businesses.
 🚀 I thrive in dynamic and fast-paced environments, driving successful projects from concept to execution.
 💬 Let's connect to discuss technology, architecture, and all things solutions engineering.
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow.svg) 
+   ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow.svg) 
 
 
 📫 How to reach me: [Email](mailto:thevargheseshibu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thevargheseshibu/) | [Instagram](https://www.instagram.com/thevargiz/) | [Whatsapp](https://wa.me/9496229341)
@@ -42,7 +42,8 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thevargheseshibu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Trophies
-![GitHub Trophies]([https://github-profile-trophy.vercel.app/?username=thevargheseshibu])
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thevargheseshibu)](https://github-profile-trophy.vercel.app/?username=thevargheseshibu)
+
 
 
 
@@ -55,9 +56,9 @@ Trophies
 
 ## Honors
 
-![ Performance Award Debutant - H2](https://drive.google.com/file/d/1n-uiey-0r-_txi_yuLKCagQ0ZB1OeEFh/view?usp=sharing)
-![Team Champ Award : 2022](https://drive.google.com/file/d/19m6AWQggTwq5oPS4yAQWpjv40BNbv-Eq/view?usp=sharing)
-![Team Champ Award : 2023](https://drive.google.com/file/d/19v87LIFcW1PRkSiCGfcHMXgmoSP-MFqx/view?usp=sharing)
+[ Performance Award Debutant - H2](https://drive.google.com/file/d/1n-uiey-0r-_txi_yuLKCagQ0ZB1OeEFh/view?usp=sharing) |
+[Team Champ Award : 2022](https://drive.google.com/file/d/19m6AWQggTwq5oPS4yAQWpjv40BNbv-Eq/view?usp=sharing) |
+[Team Champ Award : 2023](https://drive.google.com/file/d/19v87LIFcW1PRkSiCGfcHMXgmoSP-MFqx/view?usp=sharing) |
 
 
 
