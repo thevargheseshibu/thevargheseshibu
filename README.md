@@ -2,6 +2,17 @@
 
 Lead Solution Engineer with 4+ years of experience. I have a passion for solving complex problems and delivering innovative solutions.
 
+<span style="animation: fade-in-out 2s infinite;">This text will fade in and out.</span>
+
+<!-- Keyframes for the fade-in-out animation -->
+<style>
+@keyframes fade-in-out {
+  0% { opacity: 0; }
+  50% { opacity: 1; }
+  100% { opacity: 0; }
+}
+</style>
+
 
 🔭 I’m currently working at IBS Software.
 🔧 I specialize in designing and implementing high-impact solutions for businesses.
@@ -47,7 +58,7 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket,Express, Fastify,
 ## GitHub Stats
 
 
-Statistics
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thevargheseshibu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Trophies
