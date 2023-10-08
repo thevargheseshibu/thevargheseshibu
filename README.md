@@ -53,6 +53,12 @@ Trophies
 - [Korean Air ](https://cargo.koreanair.com/en/home)
 - [SKYPAK](https://www.skypaktours.co.jp/)
 
+## Honors
+
+[ Performance Award Debutant - H2](https://drive.google.com/file/d/1n-uiey-0r-_txi_yuLKCagQ0ZB1OeEFh/view?usp=sharing)
+[Team Champ Award : 2022](https://drive.google.com/file/d/19m6AWQggTwq5oPS4yAQWpjv40BNbv-Eq/view?usp=sharing)
+[Team Champ Award : 2023](https://drive.google.com/file/d/19v87LIFcW1PRkSiCGfcHMXgmoSP-MFqx/view?usp=sharing)
+
 
 
 ![JavaScript]( https://drive.google.com/file/d/19v87LIFcW1PRkSiCGfcHMXgmoSP-MFqx/view) 
