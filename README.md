@@ -20,11 +20,11 @@ In my free time, I'm an avid enthusiast of:
 - ⛰️ Hiking: Conquering peaks and embracing the serenity of nature.
 - 🏋️‍♂️ Gym: I'm passionate about fitness and hitting the gym to stay in shape.
 - 🎲 GM (Gaming Master): Strategizing and conquering virtual worlds with a competitive edge.
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)
+   ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)
 
 ## Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevargheseshibu&layout=compact)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevargheseshibu&layout=compact)
 
 - 💻 Programming Languages: JavaScript, Typescript, C#, Python, Kotlin, Solidity, Ruby, Php, VB, C, C++, Java, HTML and CSS
 
@@ -35,7 +35,7 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 - 📚Application: Android Studio, X-code, React-Native, Unity (2D, 3D, Vuforia (AR), Android).
 
 - 📊 Blockchain: Truffle Suite, Remix, Infura, web3.js.
-- 
+  
 
 ## GitHub Stats
 
@@ -43,8 +43,6 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 
 Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thevargheseshibu)](https://github-profile-trophy.vercel.app/?username=thevargheseshibu)
-
-
 
 
 
