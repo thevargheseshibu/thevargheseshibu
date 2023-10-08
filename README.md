@@ -40,7 +40,7 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 ## GitHub Stats
 
 Statistics
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thevargheseshibu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thevargheseshibu&show_icons=true&theme=dark)
 
 Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thevargheseshibu)
@@ -55,8 +55,8 @@ Trophies
 ## Honors
 
 [ Performance Award Debutant - H2](https://drive.google.com/file/d/1n-uiey-0r-_txi_yuLKCagQ0ZB1OeEFh/view?usp=sharing) |
-[Team Champ Award : 2022](https://drive.google.com/file/d/19m6AWQggTwq5oPS4yAQWpjv40BNbv-Eq/view?usp=sharing) |
-[Team Champ Award : 2023](https://drive.google.com/file/d/19v87LIFcW1PRkSiCGfcHMXgmoSP-MFqx/view?usp=sharing) |
+[Team Champ Award: 2022](https://drive.google.com/file/d/19m6AWQggTwq5oPS4yAQWpjv40BNbv-Eq/view?usp=sharing) |
+[Team Champ Award: 2023](https://drive.google.com/file/d/19v87LIFcW1PRkSiCGfcHMXgmoSP-MFqx/view?usp=sharing) |
 
 
 
