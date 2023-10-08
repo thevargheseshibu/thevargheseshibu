@@ -40,10 +40,10 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 ## GitHub Stats
 
 
-Statistics
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thevargheseshibu&show_icons=true&theme=dark)
 
-Trophies
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thevargheseshibu)
 
 
