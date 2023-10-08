@@ -2,17 +2,6 @@
 
 Lead Solution Engineer with 4+ years of experience. I have a passion for solving complex problems and delivering innovative solutions.
 
-<span style="animation: fade-in-out 2s infinite;">This text will fade in and out.</span>
-
-<!-- Keyframes for the fade-in-out animation -->
-<style>
-@keyframes fade-in-out {
-  0% { opacity: 0; }
-  50% { opacity: 1; }
-  100% { opacity: 0; }
-}
-</style>
-
 
 🔭 I’m currently working at IBS Software.
 🔧 I specialize in designing and implementing high-impact solutions for businesses.
@@ -40,24 +29,15 @@ In my free time, I'm an avid enthusiast of:
 - 💻 Programming Languages: JavaScript, Typescript, C#, Python, Kotlin, Solidity, Ruby, Php, VB, C, C++, Java, HTML and CSS
 
 - 🌐 Web Development:  React (Redux, Flux, Recoil, Jest), Node (Winston, dotenv, Mongoose, Nodemon,
-JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket,Express, Fastify, Angular, Asp.net, Flask
+JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify, Angular, Asp.net, Flask
 
  
 - 📚Application: Android Studio, X-code, React-Native, Unity (2D, 3D, Vuforia (AR), Android).
 
 - 📊 Blockchain: Truffle Suite, Remix, Infura, web3.js.
-
-
-
-
-
-
-
-
+- 
 
 ## GitHub Stats
-
-
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thevargheseshibu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -74,4 +54,6 @@ Trophies
 - [SKYPAK](https://www.skypaktours.co.jp/)
 
 
+
+![JavaScript]( https://drive.google.com/file/d/19v87LIFcW1PRkSiCGfcHMXgmoSP-MFqx/view) 
 Feel free to explore my repositories to see more of my work! 😄
