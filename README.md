@@ -21,12 +21,13 @@ In my free time, I'm an avid enthusiast of:
 - 🏋️‍♂️ Gym: I'm passionate about fitness and hitting the gym to stay in shape.
 - 🎲 GM (Gaming Master): Strategizing and conquering virtual worlds with a competitive edge.
 
-- 📦 Github Contributions:
-   ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)
+📦 Github Contributions:<br>
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)
+
 
 ## Skills
 
-- 🐙 Github Languages:
+- 🐙 Github Languages Summary:<br>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevargheseshibu&layout=compact)
 
 - 💻 Programming Languages: JavaScript, Typescript, C#, Python, Kotlin, Solidity, Ruby, Php, VB, C, C++, Java, HTML and CSS
@@ -43,10 +44,10 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 ## GitHub Stats
 
 
-
+- Statistics:<br>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thevargheseshibu&show_icons=true&theme=dark)
 
-
+- Trophies:<br>
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thevargheseshibu)
 
 
