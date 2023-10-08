@@ -45,8 +45,8 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 
 ## Websites Worked
 
-- [Korean Air ](https://cargo.koreanair.com/en/home)
-- [SKYPAK](https://www.skypaktours.co.jp/)
+- <a href="https://www.skypaktours.co.jp/" style="color: red;">Korean Air</a>
+- <a href="https://www.skypaktours.co.jp/" style="color: red;">SKYPAK</a>
 
 ## Honors
 
