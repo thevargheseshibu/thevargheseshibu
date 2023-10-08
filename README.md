@@ -27,7 +27,7 @@ In my free time, I'm an avid enthusiast of:
 
 ## Skills
 
-- 🐙 Github Languages:
+- 🐙 Github Languages Summary:<br>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevargheseshibu&layout=compact)
 
 - 💻 Programming Languages: JavaScript, Typescript, C#, Python, Kotlin, Solidity, Ruby, Php, VB, C, C++, Java, HTML and CSS
@@ -44,10 +44,10 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 ## GitHub Stats
 
 
-
+- Statistics:<br>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thevargheseshibu&show_icons=true&theme=dark)
 
-
+- Trophies:<br>
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thevargheseshibu)
 
 
