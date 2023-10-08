@@ -21,8 +21,14 @@ In my free time, I'm an avid enthusiast of:
 - 🏋️‍♂️ Gym: I'm passionate about fitness and hitting the gym to stay in shape.
 - 🎲 GM (Gaming Master): Strategizing and conquering virtual worlds with a competitive edge.
 
+📦 Github Contributions:
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)
+
+In the above, these two below
+
 - 📦 Github Contributions:
-  ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)
+
 
 ## Skills
 
