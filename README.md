@@ -11,9 +11,21 @@ Lead Solution Engineer with 4+ years of experience.  I have a passion for solvin
    <br>📦 Github Contributions:<br>
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)<br>
 
-
-📫 How to reach me: [Email](mailto:thevargheseshibu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thevargheseshibu/) | [Instagram](https://www.instagram.com/thevargiz/) | [Whatsapp](https://wa.me/9496229341)
-
+## 📫 Connect with me  
+<div align="center">
+  <a href="mailto:thevargheseshibu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/thevargheseshibu/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/thevargiz/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://wa.me/9496229341" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 ## Skills
 
@@ -44,8 +56,8 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 
 ## Websites Worked
 
-- [Korean Air ](https://cargo.koreanair.com/en/home)
-- [SKYPAK](https://www.skypaktours.co.jp/)
+- <a href="https://www.skypaktours.co.jp/" style="color: red;">Korean Air</a>
+- <a href="https://www.skypaktours.co.jp/" style="color: red;">SKYPAK</a>
 
 ## Honors
 
