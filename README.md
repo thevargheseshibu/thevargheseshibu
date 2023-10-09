@@ -12,7 +12,7 @@ Lead Solution Engineer with 4+ years of experience. I have a passion for solving
    <br>📦 Github Contributions:<br>
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevargheseshibu)<br>
 
-## 📫 How to reach me & Connect with me  
+## 📫 Connect with me  
 <div align="center">
   <a href="mailto:thevargheseshibu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="email" style="margin-bottom: 5px;" />
