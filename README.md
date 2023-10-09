@@ -1,7 +1,6 @@
 # Hello, I'm Varghese Shibu 👋
 
-Lead Solution Engineer with 4+ years of experience. I have a passion for solving complex problems and delivering innovative solutions.
-
+Lead Solution Engineer with 4+ years of experience.  I have a passion for solving complex problems and delivering innovative solutions.
 
 🔭 I’m currently working at IBS Software.
 🔧 I specialize in designing and implementing high-impact solutions for businesses.
