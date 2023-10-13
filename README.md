@@ -27,6 +27,15 @@ Lead Solution Engineer with 4+ years of experience.  I have a passion for solvin
   </a>
 </div>
 
+## Professional Websites Worked
+
+- <a href="https://www.skypaktours.co.jp/" style="color: red;">Korean Air</a>
+- <a href="https://www.skypaktours.co.jp/" style="color: red;">SKYPAK</a>
+
+## Personel Websites Hosted in Github
+- <a href="https://thevargheseshibu.github.io/sliding-cards/" style="color: red;">Sliding Cards</a>
+
+
 ## Skills
 
 - 🐙 Github Language Summary:<br>
@@ -52,15 +61,6 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 - Trophies:<br>
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thevargheseshibu)
 
-
-
-## Professional Websites Worked
-
-- <a href="https://www.skypaktours.co.jp/" style="color: red;">Korean Air</a>
-- <a href="https://www.skypaktours.co.jp/" style="color: red;">SKYPAK</a>
-
-## Personel Websites Hosted in Github
-- <a href="https://thevargheseshibu.github.io/sliding-cards/" style="color: red;">Sliding Cards</a>
 
 ## Honors
 
