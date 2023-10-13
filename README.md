@@ -32,6 +32,7 @@ Lead Solution Engineer with 4+ years of experience.  I have a passion for solvin
 - <a href="https://www.skypaktours.co.jp/" style="color: red;">Korean Air</a>
 - <a href="https://www.skypaktours.co.jp/" style="color: red;">SKYPAK</a>
 
+
 ## Personnel Websites Github Hosted
 - <a href="https://thevargheseshibu.github.io/sliding-cards/" style="color: red;">Sliding Cards</a>
 
