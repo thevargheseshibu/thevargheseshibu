@@ -60,7 +60,7 @@ JWT, EJS, PUG, PM2), NextJS, API (RestAPI, GraphQL), WebSocket, Express, Fastify
 - <a href="https://www.skypaktours.co.jp/" style="color: red;">SKYPAK</a>
 
 ## Personel Websites Hosted in Github
-- <a href="[https://www.skypaktours.co.jp/](https://thevargheseshibu.github.io/sliding-cards/)" style="color: red;">Sliding Cards</a>
+- <a href="https://thevargheseshibu.github.io/sliding-cards/" style="color: red;">Sliding Cards</a>
 
 ## Honors
 
