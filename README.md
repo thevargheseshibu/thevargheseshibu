@@ -8,7 +8,7 @@ Lead Solution Engineer with 4+ years of experience.  I have a passion for solvin
 💬 Let's connect to discuss technology, architecture, and all things solutions engineering.<br>
    <br>![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![ReactJS](https://img.shields.io/badge/ReactJS-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![NextJS](https://img.shields.io/badge/NextJS-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![Node](https://img.shields.io/badge/Node-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-Expert-yellow.svg)<br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,javascript,typescript,nextjs,graphql,express,vue,csharp,python,kotlin,solidity,ruby,php,html,css,jest,pug,angular,flask,androidstudio,unity3d,android,remix,&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,javascript,typescript,nextjs,graphql,express,vue,python,kotlin,solidity,ruby,php,html,css,jest,pug,angular,flask,androidstudio,unity2d,remix,&perline=20)](https://skillicons.dev)
 
 
 
