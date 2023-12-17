@@ -8,7 +8,7 @@ Lead Solution Engineer with 4+ years of experience.  I have a passion for solvin
 💬 Let's connect to discuss technology, architecture, and all things solutions engineering.<br>
    <br>![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![ReactJS](https://img.shields.io/badge/ReactJS-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![NextJS](https://img.shields.io/badge/NextJS-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![Node](https://img.shields.io/badge/Node-Expert-yellow.svg) &nbsp;&nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-Expert-yellow.svg)<br>
 
-   [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,javascript,typescript,csharp,python,kotlin,solidity,ruby,php,vb,c,cplusplus,java,html,css,redux,flux,recoil,jest,winston,dotenv,mongoose,nodemon,jwt,ejs,pug,pm2,nextjs,restapi,graphql,websocket,express,fastify,angular,aspnet,flask,androidstudio,xcode,reactnative,unity,unity2d,unity3d,vuforia,android,trufflesuite,remix,infura,web3js&perline=3)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,javascript,typescript,csharp,python,kotlin,solidity,ruby,php,vb,c,cplusplus,java,html,css,redux,flux,recoil,jest,winston,dotenv,mongoose,nodemon,jwt,ejs,pug,pm2,nextjs,restapi,graphql,websocket,express,fastify,angular,aspnet,flask,androidstudio,xcode,reactnative,unity,unity2d,unity3d,vuforia,android,trufflesuite,remix,infura,web3js&perline=20)](https://skillicons.dev)
 
 
    <br>📦 Github Contributions:<br>
